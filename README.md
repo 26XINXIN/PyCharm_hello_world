@@ -1,3 +1,3 @@
 # Hello World PyCharm project
 
-This is he hello world project created by PyCharme.
+This is a hello world project created by PyCharme.
